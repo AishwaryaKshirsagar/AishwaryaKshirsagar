@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Interested in Computer Vision and Neural Networks
 
 #### Don't forget to explore the Repositories!
-<img src="https://media.giphy.com/media/4lAPonbnpnN04/giphy.gif" width="700" height ="300">
-
+<!-- <img src="https://media.giphy.com/media/4lAPonbnpnN04/giphy.gif" width="700" height ="300">
+ -->
 
 #### Technologies and Tools - 
 `Python Data Analysis` – Pandas Numpy\
