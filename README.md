@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **AishwaryaKshirsagar/AishwaryaKshirsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aishwarya-kshirsagar-9b57471a0/) [Kaggle](https://www.kaggle.com/aishwaryakshirsagar)
 - 😄 Pronouns: her/she
 - ⚡ Interested in Computer Vision
--->
+
