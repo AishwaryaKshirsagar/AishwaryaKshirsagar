@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
  
- #### I am Aishwarya Kshirsagar
+ ### I am Aishwarya Kshirsagar
  <p align="center">
  <img src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif" width="400" height ="300">
  </p>
