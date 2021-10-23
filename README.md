@@ -7,7 +7,7 @@ Here are some ideas to get you started:
  
  ### I am Aishwarya Kshirsagar
  <p align="center">
- <img src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif" width="400" height ="300">
+ <img src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif" width="600" height ="400">
  </p>
  
 - 🔭 I’m currently a Computer Science Student
