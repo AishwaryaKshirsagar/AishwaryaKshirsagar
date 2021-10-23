@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: her/she
 - ⚡ Interested in Computer Vision and Neural Networks
 
+### Let's take a look at my Projects
+<img src="https://media.giphy.com/media/4lAPonbnpnN04/giphy.gif" width="700" height ="300">
+
+
 #### Technologies and Tools - 
 `Python Data Analysis` – Pandas Numpy\
 `Data Visualization` - Matplotlib Seaborn Plotly\
@@ -22,6 +26,6 @@ Here are some ideas to get you started:
 `Framework & Tools` - Scikit-learn Tensorflow Keras OpenCV NLTK
 
 
-<img src="https://media.giphy.com/media/4lAPonbnpnN04/giphy.gif" width="700" height ="300">
+
 
 
