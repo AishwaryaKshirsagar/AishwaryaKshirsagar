@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: her/she
 - ⚡ Interested in Computer Vision and Neural Networks
 
-### Let's take a look at my Projects
+#### Don't forget to explore the Repositories!
 <img src="https://media.giphy.com/media/4lAPonbnpnN04/giphy.gif" width="700" height ="300">
 
 
