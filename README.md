@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 `Framework & Tools` - Scikit-learn Tensorflow Keras OpenCV NLTK
 
 
-<img src="https://media.giphy.com/media/4lAPonbnpnN04/giphy.gif" width="400" height ="400">
+<img src="https://media.giphy.com/media/4lAPonbnpnN04/giphy.gif" width="700" height ="300">
 
 
