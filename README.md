@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 `Data Visualization` - Matplotlib Seaborn Plotly\
 `Machine Learning` - Linear Regression Ridge Regression Lasso Regression - Decision Tree Support Vector Machine K Nearest Neighbors - Logistic Regression Ensemble Models Naive Bayes - K-Means Clustering Hierarchical Clustering Nearest Neighbors\
 `Deep Learning` - ANN CNN\
-`Framework & Tools` - Scikit-learn Tensorflow Keras OpenCV NLTK\
+`Framework & Tools` - Scikit-learn Tensorflow Keras OpenCV NLTK
+
+
 
