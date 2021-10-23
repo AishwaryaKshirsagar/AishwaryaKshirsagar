@@ -6,8 +6,9 @@
 Here are some ideas to get you started:
  
  #### I am Aishwarya Kshirsagar
- 
- <img src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif" width="400" height ="300" align="center">
+ <p align="center">
+ <img src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif" width="400" height ="300">
+ </p>
  
 - 🔭 I’m currently a Computer Science Student
 - 🌱 I’m currently learning Stuff related to Data Science
