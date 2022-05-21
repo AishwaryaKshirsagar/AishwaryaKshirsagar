@@ -8,7 +8,8 @@
 - 🔭 I’m currently a Computer Science Student
 - 🌱 I’m currently learning Stuff related to Data Science
 - 👯 I’m looking to collaborate on Tech and Data Science
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aishwarya-kshirsagar-9b57471a0/)     [Kaggle](https://www.kaggle.com/aishwaryakshirsagar)
+- 📫 How to reach me: [Kaggle](https://www.kaggle.com/aishwaryakshirsagar)
+<!-- - [Linkedin](https://www.linkedin.com/in/aishwarya-kshirsagar-9b57471a0/)   -->
 - 😄 Pronouns: her/she
 - ⚡ Interested in Computer Vision and Neural Networks
 
