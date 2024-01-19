@@ -1,9 +1,11 @@
 ### Hello there 👋
  
  ### I am Aishwarya Kshirsagar
+ <! --
  <p align="center">
  <img src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif" width="500" height ="400">
  </p>
+ -->
  
 - 🔭 I’m currently a Computer Science Student
 - 🌱 I’m currently learning Stuff related to Data Science
