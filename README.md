@@ -18,7 +18,7 @@
  -->
 
 #### Technologies, Skills and Tools - 
-'Computer Vision'
+'Computer Vision'\
 `Python Data Analysis` – Pandas Numpy\
 `Data Visualization` - Matplotlib Seaborn Plotly\
 `Machine Learning` 
