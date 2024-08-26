@@ -7,24 +7,23 @@
  </p>
  -->
  
-- 🔭 I’m currently a Computer Science Student
-- 🌱 I’m currently learning Stuff related to Data Science
-- 👯 I’m looking to collaborate on Tech and Data Science
-- 📫 How to reach me: [Kaggle](https://www.kaggle.com/aishwaryakshirsagar)
+- 🔭 I’m currently pursuing a Masters in Visual Computing at Saarland University, Germany.
+- 🌱 My interests are 3D Computer Vision, Foundation Models and Generative AI.
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aishwarya-kshirsagar-9b57471a0/)
 <!-- - [Linkedin](https://www.linkedin.com/in/aishwarya-kshirsagar-9b57471a0/)   -->
-- 😄 Pronouns: her/she
-- ⚡ Interested in Computer Vision and Neural Networks
+- ⚡ Interested in Computer Vision and Deep Learning
 
 #### Don't forget to explore the Repositories!
 <!-- <img src="https://media.giphy.com/media/4lAPonbnpnN04/giphy.gif" width="700" height ="300">
  -->
 
-#### Technologies and Tools - 
+#### Technologies, Skills and Tools - 
+'Computer Vision'
 `Python Data Analysis` – Pandas Numpy\
 `Data Visualization` - Matplotlib Seaborn Plotly\
-`Machine Learning` - Linear Regression Ridge Regression Lasso Regression - Decision Tree Support Vector Machine K Nearest Neighbors - Logistic Regression Ensemble Models Naive Bayes - K-Means Clustering Hierarchical Clustering Nearest Neighbors\
-`Deep Learning` - ANN CNN\
-`Framework & Tools` - Scikit-learn Tensorflow Keras OpenCV NLTK
+`Machine Learning` 
+`Framework & Tools` - PyTorch, Scikit-learn Tensorflow Keras OpenCV NLTK
 
 
 
