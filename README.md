@@ -8,7 +8,7 @@
  -->
  
 - 🔭 I’m currently pursuing a Masters in Visual Computing at Saarland University, Germany.
-- 🌱 My interests are 3D Computer Vision, Foundation Models and Generative AI.
+- 🌱 My interests are 3D Computer Vision and Generative AI.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aishwarya-kshirsagar-9b57471a0/)
 <!-- - [Linkedin](https://www.linkedin.com/in/aishwarya-kshirsagar-9b57471a0/)   -->
